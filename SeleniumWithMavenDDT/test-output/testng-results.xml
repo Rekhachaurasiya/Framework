@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="151005" started-at="2020-04-21T08:54:58Z" finished-at="2020-04-21T08:57:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="151005" started-at="2020-04-21T08:54:58Z" finished-at="2020-04-21T08:57:29Z">
+      <class name="dataproviderTest.TestFBLoginPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataproviderTest.TestFBLoginPage@1993335]" name="setUp" is-config="true" duration-ms="39841" started-at="2020-04-21T08:54:59Z" finished-at="2020-04-21T08:55:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="FBLoginTest(java.lang.String, java.lang.String)[pri:0, instance:dataproviderTest.TestFBLoginPage@1993335]" name="FBLoginTest" duration-ms="41786" started-at="2020-04-21T08:55:39Z" data-provider="FacebookLogin" finished-at="2020-04-21T08:56:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rekhachaurasiya123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Igate@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataproviderTest.TestFBLoginPage@1993335]" name="tearDown" is-config="true" duration-ms="1959" started-at="2020-04-21T08:56:21Z" finished-at="2020-04-21T08:56:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataproviderTest.TestFBLoginPage@1993335]" name="setUp" is-config="true" duration-ms="21989" started-at="2020-04-21T08:56:23Z" finished-at="2020-04-21T08:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="FBLoginTest(java.lang.String, java.lang.String)[pri:0, instance:dataproviderTest.TestFBLoginPage@1993335]" name="FBLoginTest" duration-ms="7381" started-at="2020-04-21T08:56:45Z" data-provider="FacebookLogin" finished-at="2020-04-21T08:56:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rekhachaurasiya1992@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Welcome@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataproviderTest.TestFBLoginPage@1993335]" name="tearDown" is-config="true" duration-ms="1735" started-at="2020-04-21T08:56:52Z" finished-at="2020-04-21T08:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:dataproviderTest.TestFBLoginPage@1993335]" name="setUp" is-config="true" duration-ms="21159" started-at="2020-04-21T08:56:54Z" finished-at="2020-04-21T08:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="FBLoginTest(java.lang.String, java.lang.String)[pri:0, instance:dataproviderTest.TestFBLoginPage@1993335]" name="FBLoginTest" duration-ms="12649" started-at="2020-04-21T08:57:15Z" data-provider="FacebookLogin" finished-at="2020-04-21T08:57:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rekhachaurasiya321@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chaurasiya@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:dataproviderTest.TestFBLoginPage@1993335]" name="tearDown" is-config="true" duration-ms="1410" started-at="2020-04-21T08:57:27Z" finished-at="2020-04-21T08:57:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- dataproviderTest.TestFBLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
